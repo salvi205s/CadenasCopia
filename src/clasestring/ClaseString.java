@@ -14,8 +14,8 @@ public class ClaseString {
    
     public static void main(String[] args) {
         
+        //cambio x
         String s = "Salvador.com";
-        // Hola 
       
         System.out.println("Tamaños: " + s.length());
         
