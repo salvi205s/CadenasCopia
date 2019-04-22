@@ -20,7 +20,7 @@ public class ClaseString {
         System.out.println("Tamaños: " + s.length());
         
         // Obtener el char de una posicion concreta
-        System.out.println("char de la posicion 5: " + s.charAt(5));
+        System.out.println("char de la posicion 5: " + s.charAt(6));
         
         // Obtener subcadena desde el caracter i-ésimo hasta el final
         // de la cadena
